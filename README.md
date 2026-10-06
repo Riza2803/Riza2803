@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riza Aditya Pirmansyah</h1>
-- 🔭 I’m currently study on **Subang State Polytechnic**
+- 🔭 I’m Information Student at Subang State Polytechnic
 
 - 📫 How to reach me **rizaadityafirmansyah2@gmail.com**
 
